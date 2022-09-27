@@ -15,7 +15,7 @@ Program
 |**Time (EAT)**| **Talk** | **Speaker** | 
 |:---------------|:---------------------- | :----------------------- |
 |2:10 - 2:20 pm |Introduction to Bioinformatics Hub of Kenya Intiative (BHKi) |Pauline Karega|
-|2:20 - 2:50 pm |Trends in bioinformatics |James Otieno |
+|2:20 - 2:50 pm |Trends in Bioinformatics |James Otieno |
 |2:50 - 3:00 pm|Q&A session |Host|
 |3:00 - 3:30 pm|Leveraging Open Science in Bioinformatics|Caleb Kibet |
 |3:30 - 3:35 pm |Q&A session |Host|
