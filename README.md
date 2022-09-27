@@ -1,5 +1,5 @@
 # MKU-Bioinformatics-OpenScience-Seminar
-The [Bioinformatics Hub of Kenya initiative](https://bhki.org/) is a Non-profit organization which aims to empower researchers with bioinformatics skills, and bridge the gap between young bioinformatics researchers and experts. One way the organization aims to do this is by holding outreach programs in universities to sensitize on bioinformatics training and practice.
+The [Bioinformatics Hub of Kenya initiative](https://bhki.org/) is a Non-profit organization which aims to empower researchers with bioinformatics skills, and bridge the gap between young bioinformatics researchers and experts. One way the organization aims to do this is by holding outreach programs in universities to sensitize on bioinformatics training and practice. <br/>
 The Bioinformatics Hub of Kenya in partnership with the Mt Kenya University will be holding a Bioinformatics Seminar. The seminar is aimed at introducing bioinformatics and open science to students in life science fields, to encourage application to bioinformatics courses for masters studies and practice of bioinformatics through doing projects at the undergraduate level.
 
 
@@ -8,7 +8,7 @@ The Bioinformatics Hub of Kenya in partnership with the Mt Kenya University will
 **Venue: MKU indoor arena** <br/>
 **Host: David Kiragu** <br/>
 
-**Speakers: Dr. James Otieno and Dr. Caleb Kibet**
+**Speakers: [Dr. James Otieno](https://www.jamesrichardotieno.com/) and [Dr. Caleb Kibet](https://kipkurui.github.io/)**
 
 Program 
 
